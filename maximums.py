@@ -10,8 +10,3 @@ def max_of_three(x, y, z):
        return z
     else:
        return x
-max_of_two(5,4)
-max_of_two(-2,-3)
-max_of_two(0,0)
-max_of_three(-2,-3,-1)
-max_of_three(0,0,0)
